@@ -20,10 +20,12 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- JavaScript
+- Sass
 
 ### Screenshot
 
-![Design preview for the Insure landing page coding challenge](https://github.com/Orisabiyi/qr-component-code/blob/main/design/desktop-preview.jpg)
+![Design preview for the Insure landing page coding challenge](https://github.com/brycezubi/Insure-Landin-Page/blob/main/assets/design/desktop-preview.jpg)
 
 ### Links
 
